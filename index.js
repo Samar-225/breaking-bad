@@ -8,11 +8,11 @@ console.log("---------------------------------------------")
 
 
 var score =0;
-var highScores = ["Abhijeet = 10"]
+var highScores = ["Samarsinh = 10"]
 var question = [{question:"In which New Mexico City does the show 'Breaking Bad' take place? \n1.Santa Fe \n2.Albuquerque \n3.Roswell",
 answer:"2"},
-{question:"Which subject did Walt teach high school children? \n1.Maths \n2.Biology \n3.chemistry\n",
-answer:"3"},
+{question:"Which subject did Walt teach high school children? \n1.chemistry \n2.Maths \n3.Biology\n",
+answer:"1"},
 {question:"What is the slogan of Saul Goodman's law firm in 'Breaking Bad'?\n1.Turn Your Pain Into Rain.\n2.Better Call Saul!\n3.Get What’s Yours\n",
 answer:"2"}
 ]
